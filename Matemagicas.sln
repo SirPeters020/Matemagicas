@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matemagicas.Ex1", "Matemagicas.Ex1\Matemagicas.Ex1.csproj", "{DB55C26A-FCE5-4860-87E0-5972F39CEB2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matemagicas.Ex2", "Matemagicas.Ex2\Matemagicas.Ex2.csproj", "{C082FFC8-995F-442F-9FFC-E4FA7328C913}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matemagicas.Ex2", "Matemagicas.Ex2\Matemagicas.Ex2.csproj", "{C082FFC8-995F-442F-9FFC-E4FA7328C913}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matemagicas.Ex3", "Matemagicas.Ex3\Matemagicas.Ex3.csproj", "{A7D2B300-B8B9-4460-8446-41F1AC51F36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matemagicas.Ex4", "Matemagicas.Ex4\Matemagicas.Ex4.csproj", "{01A59005-508A-4595-8917-CF22EF64B0B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{C082FFC8-995F-442F-9FFC-E4FA7328C913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C082FFC8-995F-442F-9FFC-E4FA7328C913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C082FFC8-995F-442F-9FFC-E4FA7328C913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D2B300-B8B9-4460-8446-41F1AC51F36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D2B300-B8B9-4460-8446-41F1AC51F36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D2B300-B8B9-4460-8446-41F1AC51F36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D2B300-B8B9-4460-8446-41F1AC51F36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A59005-508A-4595-8917-CF22EF64B0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A59005-508A-4595-8917-CF22EF64B0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A59005-508A-4595-8917-CF22EF64B0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A59005-508A-4595-8917-CF22EF64B0B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
