@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matemagicas.Ex2", "Matemagi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matemagicas.Ex3", "Matemagicas.Ex3\Matemagicas.Ex3.csproj", "{A7D2B300-B8B9-4460-8446-41F1AC51F36F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matemagicas.Ex4", "Matemagicas.Ex4\Matemagicas.Ex4.csproj", "{01A59005-508A-4595-8917-CF22EF64B0B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matemagicas.Ex4", "Matemagicas.Ex4\Matemagicas.Ex4.csproj", "{01A59005-508A-4595-8917-CF22EF64B0B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matemagicas.Ex5", "Matemagicas.Ex5\Matemagicas.Ex5.csproj", "{DA051E09-167B-4B95-8F04-B5D896A7043D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matemagicas.Ex6", "Matemagicas.Ex6\Matemagicas.Ex6.csproj", "{358C05E7-2D79-4F39-8F7A-647CB0F752AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{01A59005-508A-4595-8917-CF22EF64B0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01A59005-508A-4595-8917-CF22EF64B0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01A59005-508A-4595-8917-CF22EF64B0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA051E09-167B-4B95-8F04-B5D896A7043D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA051E09-167B-4B95-8F04-B5D896A7043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA051E09-167B-4B95-8F04-B5D896A7043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA051E09-167B-4B95-8F04-B5D896A7043D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358C05E7-2D79-4F39-8F7A-647CB0F752AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358C05E7-2D79-4F39-8F7A-647CB0F752AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358C05E7-2D79-4F39-8F7A-647CB0F752AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358C05E7-2D79-4F39-8F7A-647CB0F752AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

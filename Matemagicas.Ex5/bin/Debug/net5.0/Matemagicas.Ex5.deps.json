@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Matemagicas.Ex5/1.0.0": {
+        "runtime": {
+          "Matemagicas.Ex5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matemagicas.Ex5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

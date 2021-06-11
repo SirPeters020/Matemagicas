@@ -1,0 +1,16 @@
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\bin\Debug\net5.0\Matemagicas.Ex6.exe
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\bin\Debug\net5.0\Matemagicas.Ex6.deps.json
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\bin\Debug\net5.0\Matemagicas.Ex6.runtimeconfig.json
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\bin\Debug\net5.0\Matemagicas.Ex6.runtimeconfig.dev.json
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\bin\Debug\net5.0\Matemagicas.Ex6.dll
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\bin\Debug\net5.0\ref\Matemagicas.Ex6.dll
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\bin\Debug\net5.0\Matemagicas.Ex6.pdb
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\obj\Debug\net5.0\Matemagicas.Ex6.csprojAssemblyReference.cache
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\obj\Debug\net5.0\Matemagicas.Ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\obj\Debug\net5.0\Matemagicas.Ex6.AssemblyInfoInputs.cache
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\obj\Debug\net5.0\Matemagicas.Ex6.AssemblyInfo.cs
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\obj\Debug\net5.0\Matemagicas.Ex6.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\obj\Debug\net5.0\Matemagicas.Ex6.dll
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\obj\Debug\net5.0\ref\Matemagicas.Ex6.dll
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\obj\Debug\net5.0\Matemagicas.Ex6.pdb
+C:\Users\Pedro Augusto\Documents\Aulas Projetos\c#\Matemagicas\Matemagicas.Ex6\obj\Debug\net5.0\Matemagicas.Ex6.genruntimeconfig.cache
